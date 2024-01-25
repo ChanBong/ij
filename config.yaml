@@ -1,0 +1,7 @@
+directories:
+  photos_directories: 'images/stock'
+  
+ingestion_cache: 'checklist.txt'
+megastore: 'photo_database.db'
+
+openai_api_key: "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"
