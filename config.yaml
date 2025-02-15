@@ -4,4 +4,4 @@ directories:
 ingestion_cache: 'checklist.txt'
 megastore: 'photo_database.db'
 
-openai_api_key: "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"
+openai_api_key: "A VERY SECRET KEY"
